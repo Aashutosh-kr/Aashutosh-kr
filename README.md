@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aashutosh-kr.
 - 👀 I’m interested in IT.
 - 🌱 I’m currently learning Web development.
-- 💞️ I’m currently looking for work from home Internship or part time job.
+- 💞️ I’m currently looking for work from home Internship or part time job in Frontend Web Development.
 - 📫 Reach me at -- 
 
 <!---
