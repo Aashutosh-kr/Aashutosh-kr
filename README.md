@@ -1,14 +1,11 @@
 #
 
-# I am **Aashutosh kumar**.
+# 👋 Hi, I’m @Aashutosh-kr.
 
 ![mypic](https://aashutosh-kr.github.io/assets/img/my_pic.png)
 
 ---
 
-
-
-- #### 👋 Hi, I’m @Aashutosh-kr.
 - #### 👀 I am a Frontend Web developer.
 - #### 🌱 I’m currently looking for work from home Internship or part time job in Frontend Web Development.
 
