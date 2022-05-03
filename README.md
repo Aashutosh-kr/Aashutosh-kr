@@ -1,6 +1,6 @@
 #
 
-# I am **Aashutosh kumar**.
+# 👋 Hi, I’m @Aashutosh-kr.
 
 ![mypic](https://aashutosh-kr.github.io/assets/img/my_pic.png)
 
