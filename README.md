@@ -6,8 +6,6 @@
 
 ---
 
-
-
 - #### 👋 Hi, I’m @Aashutosh-kr.
 - #### 👀 I am a Frontend Web developer.
 - #### 🌱 I’m currently looking for work from home Internship or part time job in Frontend Web Development.
@@ -20,7 +18,18 @@
 
 ---
 
-# Some of my projects
+# Tailwind CSS projects
+
+- ## Facebook Login Page Clone
+![Facebook Login Page](https://aashutosh-kr.github.io/assets/project-img/facebook.jpg)
+
+- ## Microsoft Landing Page Clone
+![Microsoft Landing Page](https://aashutosh-kr.github.io/assets/project-img/microsoft.jpg)
+
+# Some of my HTML, CSS, JavaScript projects
+
+- ## ITI website
+![ITI Website](https://aashutosh-kr.github.io/assets/project-img/iti-website.jpg)
 
 - ## Notes app
 ![Notes app](https://aashutosh-kr.github.io/assets/project-img/notes_app.jpg)
@@ -30,10 +39,10 @@
 
 - ## tictactoe
 ![tictactoe](https://aashutosh-kr.github.io/assets/project-img/tictactoe.png)
-
+<!-- 
 - ## Landing page
 ![Landing page](https://aashutosh-kr.github.io/assets/project-img/watch_landing_page.png)
-
+ -->
 
 <!---
 Aashutosh-kr/Aashutosh-kr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
