@@ -2,7 +2,7 @@
 
 # 👋 Hi, I’m @Aashutosh-kr.
 
-![mypic](https://aashutosh-kr.github.io/assets/img/my_pic.png)
+<!-- ![mypic](https://aashutosh-kr.github.io/assets/img/my_pic.png) -->
 
 ---
 
@@ -16,6 +16,11 @@
   - Also on Fiverr -- https://www.fiverr.com/aashutosh_kumar
 
 ---
+
+# React Js Projects
+
+- ## TextUtils Text analyzer and editor App
+![TextUtils Text analyzer and editor](https://aashutosh-kr.github.io/assets/project-img/textutils.jpg)
 
 # Tailwind CSS projects
 
