@@ -7,7 +7,7 @@
 ---
 
 - #### 👀 I am a Frontend Web developer.
-- #### 🌱 I’m currently looking for work from home Internship or part time job in Frontend Web Development.
+- #### 🌱 I’m currently looking for job in Frontend Web Development.
 
 ---
 
