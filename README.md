@@ -1,5 +1,3 @@
-#
-
 # 👋 Hi, I’m @Aashutosh-kr.
 
 <!-- ![mypic](https://aashutosh-kr.github.io/assets/img/my_pic.png) -->
@@ -17,14 +15,27 @@
 
 ---
 
-# React Js Projects
+# React Js and Bootstrap Projects
+
+- ## iNotebook App
+  - Here you can save your important notes.
+  - It has search and login functionality also.
+
+![iNotebook App](https://aashutosh-kr.github.io/assets/project-img/inotebook.png)
+
+- [View Live](https://inotebook-aashutosh-kr.vercel.app/)
+
+- ## NewsGlobal App
+![NewsGlobal App](https://aashutosh-kr.github.io/assets/project-img/newsglobal.jpg)
+
+- [View Live](https://newsglobal-aashutosh-kr.vercel.app/)
 
 - ## TextUtils Text analyzer and editor App
 ![TextUtils Text analyzer and editor](https://aashutosh-kr.github.io/assets/project-img/textutils.jpg)
 
 - [View Live](https://textutils-aashutosh-kr.vercel.app/)
 
-- [View On Github](https://github.com/Aashutosh-kr/react-tutorial/tree/main/textutils)
+<!-- - [View On Github](https://github.com/Aashutosh-kr/react-tutorial/tree/main/textutils) -->
 
 # Tailwind CSS projects
 
