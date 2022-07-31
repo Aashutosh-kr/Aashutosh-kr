@@ -15,15 +15,25 @@
 
 ---
 
-# React Js and Bootstrap Projects
+# Mern stack Projects
+
+- ## Electricity Bill Record App
+  - This app is a React app that allows you to view and add electricity bill records. You can add a bill record by entering the details in the form and clicking the "Save" button. You can also edit the bill records by clicking the "Edit" button. You can also delete the bill records by clicking the "Delete" button.
+  - The app is deployed on Railway.app and vercel
+
+![electricity bill record app](https://aashutosh-kr.github.io/assets/project-img/electricity-bill-record.jpg)
 
 - ## iNotebook App
   - Here you can save your important notes.
   - It has search and login functionality also.
+  - The app is deployed on Railway.app and vercel
 
 ![iNotebook App](https://aashutosh-kr.github.io/assets/project-img/inotebook.png)
 
 - [View Live](https://inotebook-aashutosh-kr.vercel.app/)
+
+# React Js and Bootstrap Projects
+
 
 - ## NewsGlobal App
 ![NewsGlobal App](https://aashutosh-kr.github.io/assets/project-img/newsglobal.jpg)
