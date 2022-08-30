@@ -9,7 +9,7 @@
 
 ---
 
-- ## 📫 Reach me at 
+## 📫 Reach me at 
   - My portfolio website -- https://aashutosh-kr.github.io
   - Also on Fiverr -- https://www.fiverr.com/aashutosh_kumar
 
@@ -17,33 +17,60 @@
 
 # Mern stack Projects
 
-- ## Electricity Bill Record App
+## Electricity Bill Record App
   - This app is a React app that allows you to view and add electricity bill records. You can add a bill record by entering the details in the form and clicking the "Save" button. You can also edit the bill records by clicking the "Edit" button. You can also delete the bill records by clicking the "Delete" button.
-  - The app is deployed on Railway.app and vercel
+  - The app is deployed on Railway.app and vercel.
+  
 
-![electricity bill record app](https://aashutosh-kr.github.io/assets/project-img/electricity-bill-record.jpg)
+![electricity bill record app](https://aashutosh-kr.github.io/static/media/electricityBillRecordApp.c715af08fbf6808429b8.jpg)
 
 - [View Live](https://electricity-bill-record-app.vercel.app/)
 
-- ## iNotebook App
+## iNotebook App
   - Here you can save your important notes.
   - It has search and login functionality also.
   - The app is deployed on Railway.app and vercel
 
-![iNotebook App](https://aashutosh-kr.github.io/assets/project-img/inotebook.png)
+![iNotebook App](https://aashutosh-kr.github.io/static/media/iNotebook.85d693b1d637b5426478.png)
 
 - [View Live](https://inotebook-aashutosh-kr.vercel.app/)
+
+# React Js and Tailwind CSS Projects
+
+## My Portfolio Website
+  - This is my personal portfolio website. You can see my projects and resume here. You can also contact me here. It is built using ReactJS and Tailwind CSS. It is hosted on Github Pages.
+
+  - ### It is build using 
+    - ReactJS
+    - Tailwind CSS
+
+  - ### It is deployed on Github Pages
+
+![my portfolio website](https://aashutosh-kr.github.io/static/media/portfolio.37bb08376cd2cb7fe5ee.jpg)
+
+## Film Production Website Template
+
+  - A website template for a film production company It is a single-page application.
+
+  - ### It is build using 
+    - ReactJS
+    - Tailwind CSS
+
+  - ### It is deployed on Vercel
 
 # React Js and Bootstrap Projects
 
 
-- ## NewsGlobal App
-![NewsGlobal App](https://aashutosh-kr.github.io/assets/project-img/newsglobal.jpg)
+## NewsGlobal App
+
+  - NewsGlobal is a news app that fetches news from NewsApi and displays it in a clean and simple way using React.js and Bootstrap.
+
+![NewsGlobal App](https://aashutosh-kr.github.io/static/media/newsGlobal.a423d849a588ccfc2910.jpg)
 
 - [View Live](https://newsglobal-aashutosh-kr.vercel.app/)
 
-- ## TextUtils Text analyzer and editor App
-![TextUtils Text analyzer and editor](https://aashutosh-kr.github.io/assets/project-img/textutils.jpg)
+## TextUtils Text analyzer and editor App
+![TextUtils Text analyzer and editor](https://aashutosh-kr.github.io/static/media/textUtils.f9cd73d59702d945ce0d.jpg)
 
 - [View Live](https://textutils-aashutosh-kr.vercel.app/)
 
@@ -51,15 +78,15 @@
 
 # Tailwind CSS projects
 
-- ## Facebook Login Page Clone
-![Facebook Login Page](https://aashutosh-kr.github.io/assets/project-img/facebook.jpg)
+## Facebook Login Page Clone
+![Facebook Login Page](https://aashutosh-kr.github.io/static/media/facebook.7664589daf12806c7bb9.jpg)
 
 - [View Live](https://aashutosh-kr.github.io/projects/facebook%20login%20page%20clone/)
 
 <!-- - [View On Github]() -->
 
-- ## Microsoft Landing Page Clone
-![Microsoft Landing Page](https://aashutosh-kr.github.io/assets/project-img/microsoft.jpg)
+## Microsoft Landing Page Clone
+![Microsoft Landing Page](https://aashutosh-kr.github.io/static/media/microsoft.32b016f39dffe28aaad4.jpg)
 
 - [View Live](https://aashutosh-kr.github.io/projects/microsoft%20homepage%20clone/)
 
@@ -67,35 +94,35 @@
 
 # Some of my HTML, CSS, JavaScript projects
 
-- ## ITI website
-![ITI Website](https://aashutosh-kr.github.io/assets/project-img/iti-website.jpg)
+## ITI website
+![ITI Website](https://aashutosh-kr.github.io/static/media/iti_website.0e51c10292457c6dbc27.jpg)
 
 - [View Live](https://www.bangalibabaiti.org/)
 
 <!-- - [View On Github]() -->
 
-- ## Notes app
-![Notes app](https://aashutosh-kr.github.io/assets/project-img/notes_app.jpg)
+## Notes app
+![Notes app](https://aashutosh-kr.github.io/static/media/notes_app.922ad49092900e44a3c4.jpg)
 
 - [View Live](https://aashutosh-kr.github.io/projects/notes%20app/)
 
 <!-- - [View On Github]() -->
 
-- ## Space tourism website project
-![Space tourism website project](https://aashutosh-kr.github.io/assets/project-img/space_tourism_website_project.jpg)
+## Space tourism website project
+![Space tourism website project](https://aashutosh-kr.github.io/static/media/space_tourism.a0375f45665aa1470f00.jpg)
 
 - [View Live](https://aashutosh-kr.github.io/Fronend_Mentor_project/)
 
 <!-- - [View On Github]() -->
 
-- ## tictactoe
-![tictactoe](https://aashutosh-kr.github.io/assets/project-img/tictactoe.png)
+## TicTacToe
+![tictactoe](https://aashutosh-kr.github.io/static/media/tictactoe.775f8711ab2f8aebbe29.png)
 
 - [View Live](https://aashutosh-kr.github.io/projects/tic_tac_toe/)
 
 <!-- - [View On Github]() -->
 <!-- 
-- ## Landing page
+## Landing page
 ![Landing page](https://aashutosh-kr.github.io/assets/project-img/watch_landing_page.png)
  -->
 
