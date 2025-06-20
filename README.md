@@ -4,8 +4,7 @@
 
 ---
 
-- #### 👀 I am a Frontend Web developer.
-- #### 🌱 I’m currently looking for job in Frontend Web Development.
+- #### 🌱 I’m currently working as a Full Stack Web Developer.
 
 ---
 
