@@ -15,7 +15,7 @@
 
 ---
 
-# Mern stack Projects
+<!-- # Mern stack Projects -->
 
 <!-- ## Electricity Bill Record App
   - This app is a React app that allows you to view and add electricity bill records. You can add a bill record by entering the details in the form and clicking the "Save" button. You can also edit the bill records by clicking the "Edit" button. You can also delete the bill records by clicking the "Delete" button.
@@ -43,28 +43,29 @@
 
 - ### It is build using
 
+  - NextJS
   - ReactJS
   - Tailwind CSS
 
 - ### It is deployed on Github Pages
 
-![my portfolio website](https://aashutosh-kr.github.io/static/media/portfolio.37bb08376cd2cb7fe5ee.jpg)
+![my portfolio website](https://aashutosh-kr.github.io/_next/static/media/portfolio.7fca15eb.jpg)
 
 - [View Live](https://aashutosh-kr.github.io/)
 
-## ITI website
+<!-- ## ITI website
 
 - This is a website for Bangali Baba ITI. It is a single-page application.
 
 ![ITI Website](https://aashutosh-kr.github.io/static/media/iti_website_in_react.fc06063cc89537624ee7.png)
 
-- [View Live](https://bangalibabaiti.vercel.app/)
+- [View Live](https://bangalibabaiti.vercel.app/) -->
 
 ## Film Production Website Template
 
 - A website template for a film production company It is a single-page application.
 
-![Film Production Website Template](https://aashutosh-kr.github.io/static/media/websiteTemplate.6533be70cde0e38d3786.jpg)
+![Film Production Website Template](https://aashutosh-kr.github.io/_next/static/media/websiteTemplate.53924f42.jpg)
 
 - ### It is build using
 
@@ -83,29 +84,29 @@
 
 - [View Live](https://newsglobal-aashutosh-kr.vercel.app/) -->
 
-## TextUtils Text analyzer and editor App
+<!-- ## TextUtils Text analyzer and editor App
 
 ![TextUtils Text analyzer and editor](https://aashutosh-kr.github.io/static/media/textUtils.f9cd73d59702d945ce0d.jpg)
 
-- [View Live](https://textutils-aashutosh-kr.vercel.app/)
+- [View Live](https://textutils-aashutosh-kr.vercel.app/) -->
 
 <!-- - [View On Github](https://github.com/Aashutosh-kr/react-tutorial/tree/main/textutils) -->
 
-# Tailwind CSS projects
+<!-- # Tailwind CSS projects
 
 ## Facebook Login Page Clone
 
 ![Facebook Login Page](https://aashutosh-kr.github.io/static/media/facebook.7664589daf12806c7bb9.jpg)
 
-- [View Live](https://aashutosh-kr.github.io/projects/facebook%20login%20page%20clone/)
+- [View Live](https://aashutosh-kr.github.io/projects/facebook%20login%20page%20clone/) -->
 
 <!-- - [View On Github]() -->
 
-## Microsoft Landing Page Clone
+<!-- ## Microsoft Landing Page Clone
 
 ![Microsoft Landing Page](https://aashutosh-kr.github.io/static/media/microsoft.32b016f39dffe28aaad4.jpg)
 
-- [View Live](https://aashutosh-kr.github.io/projects/microsoft%20homepage%20clone/)
+- [View Live](https://aashutosh-kr.github.io/projects/microsoft%20homepage%20clone/) -->
 
 <!-- - [View On Github]() -->
 
@@ -113,17 +114,17 @@
 
 <!-- - [View On Github]() -->
 
-## Notes app
+<!-- ## Notes app
 
 ![Notes app](https://aashutosh-kr.github.io/static/media/notes_app.922ad49092900e44a3c4.jpg)
 
-- [View Live](https://aashutosh-kr.github.io/projects/notes%20app/)
+- [View Live](https://aashutosh-kr.github.io/projects/notes%20app/) -->
 
 <!-- - [View On Github]() -->
 
 ## Space tourism website project
 
-![Space tourism website project](https://aashutosh-kr.github.io/static/media/space_tourism.a0375f45665aa1470f00.jpg)
+![Space tourism website project](https://aashutosh-kr.github.io/_next/static/media/space_tourism.755f6204.jpg)
 
 - [View Live](https://aashutosh-kr.github.io/Fronend_Mentor_project/)
 
